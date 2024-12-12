@@ -1,0 +1,4 @@
+venv/
+link_changes_log.csv
+.env
+links.csv
